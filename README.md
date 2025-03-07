@@ -1,8 +1,6 @@
 # Browser-Proxy
 Browser-in-Browser Proxies: A Guide to Anonymous and Secure Browsing.
 
-![image](https://github.com/user-attachments/assets/18018f9f-b75f-4a75-8089-6aa08f6de06d)
-
 A Browser-in-Browser (BIB) proxy is a type of proxy configuration that operates solely within a web browser. Unlike system-wide proxies that affect all internet traffic on a device, BIB proxies are limited to a single browser session. This approach is useful for users who want to browse anonymously or access geo-restricted content without impacting other applications on their device.
 
 ![image](https://github.com/user-attachments/assets/df36b96c-f2e7-4199-8964-a3b97ad659a0)
@@ -72,8 +70,6 @@ Edge shares proxy settings with Windows, so follow the same steps as Chrome (Set
 1. Open Safari Preferences → Advanced → Change Settings under the Proxies section.
 
 2. Configure the proxy using the Web Proxy (HTTP) or Secure Web Proxy (HTTPS) options.
-
-![Uploading image.png…]()
 
 # Advanced Use Cases for Proxies in Browsers
 Integrating proxies with browsers goes beyond anonymous browsing. Here are some advanced applications:
