@@ -1,5 +1,7 @@
-![image](https://github.com/user-attachments/assets/96099f3f-2db1-4001-b81e-7b719a1038d5)# Browser-Proxy
+# Browser-Proxy
 Browser-in-Browser Proxies: A Guide to Anonymous and Secure Browsing.
+
+![image](https://github.com/user-attachments/assets/18018f9f-b75f-4a75-8089-6aa08f6de06d)
 
 A Browser-in-Browser (BIB) proxy is a type of proxy configuration that operates solely within a web browser. Unlike system-wide proxies that affect all internet traffic on a device, BIB proxies are limited to a single browser session. This approach is useful for users who want to browse anonymously or access geo-restricted content without impacting other applications on their device.
 
